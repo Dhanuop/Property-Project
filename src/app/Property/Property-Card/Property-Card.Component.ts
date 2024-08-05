@@ -10,7 +10,7 @@ import { Component } from "@angular/core";
 export class PropertyCardComponent{
 
     Property:any = {
-        "id":1,
+        "id":9,
         "Name":"Birla House",
         "Type":"House",
         "Price":12000
